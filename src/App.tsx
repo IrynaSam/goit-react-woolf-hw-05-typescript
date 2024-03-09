@@ -1,5 +1,3 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import { Observer } from "./homework/1";
 import RequestComponent from "./homework/2";
